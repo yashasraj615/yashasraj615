@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100" role="img" aria-label="Fetch the pixel dog, asleep after a long day of deliveries.">
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.z{animation:z 3.2s ease-in-out infinite}.z2{animation-delay:1.06s}.z3{animation-delay:2.12s}
+@keyframes z{0%{opacity:0;transform:translate(0,0)}30%{opacity:1}100%{opacity:0;transform:translate(10px,-18px)}}
+.br{animation:br 3.2s ease-in-out infinite;transform-origin:48px 24px}
+@keyframes br{50%{transform:scaleY(1.05)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<line x1="40" y1="72" x2="760" y2="72" stroke="#263243" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+<g transform="translate(352 47)"><g class="br"><rect x="20" y="4" width="36" height="4" fill="#56647a"/><rect x="12" y="8" width="52" height="4" fill="#56647a"/><rect x="76" y="8" width="8" height="4" fill="#56647a"/><rect x="8" y="12" width="64" height="4" fill="#56647a"/><rect x="76" y="12" width="16" height="4" fill="#56647a"/><rect x="4" y="16" width="4" height="4" fill="#f2f5f8"/><rect x="8" y="16" width="44" height="4" fill="#56647a"/><rect x="52" y="16" width="8" height="4" fill="#f2f5f8"/><rect x="60" y="16" width="16" height="4" fill="#56647a"/><rect x="76" y="16" width="4" height="4" fill="#f2f5f8"/><rect x="80" y="16" width="12" height="4" fill="#56647a"/><rect x="92" y="16" width="4" height="4" fill="#f2f5f8"/><rect x="0" y="20" width="8" height="4" fill="#f2f5f8"/><rect x="12" y="20" width="40" height="4" fill="#56647a"/><rect x="52" y="20" width="12" height="4" fill="#f2f5f8"/><rect x="64" y="20" width="20" height="4" fill="#56647a"/><rect x="84" y="20" width="12" height="4" fill="#f2f5f8"/></g></g>
+<g fill="#8491a3" font-weight="700">
+<text class="z" x="448" y="51" font-size="11">z</text>
+<text class="z z2" x="457" y="42" font-size="13">z</text>
+<text class="z z3" x="468" y="33" font-size="15">Z</text>
+</g>
+<text x="400" y="93" font-size="11" fill="#8491a3" text-anchor="middle">all packets delivered. fetch is off the clock.</text>
+</svg>

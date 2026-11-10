@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 324" width="680" height="324" role="img" aria-labelledby="t d">
+<title id="t">A terminal that switches shells: zsh on macOS, PowerShell on Windows, adb shell on Android, and the web</title>
+<desc id="d">whoami: Yashas Raj S, I turn ideas into apps you can install. Get-Interests: cross-platform apps, device-to-device, local-first. getprop ro.builder.mode: shipping. status --all: macOS, Windows, Android and Web all green; next idea compiling.</desc>
+<style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:14px}
+.cur{animation:cur 1s steps(1) infinite}@keyframes cur{50%{opacity:0}}
+.l0{animation:l0 22s steps(1) infinite}@keyframes l0{0%{opacity:0}2.73%,100%{opacity:1}}
+.k0{transform:scaleX(0);transform-origin:204.40000000000003px 0;animation:k0 22s linear infinite}
+@keyframes k0{0%,4.32%{transform:scaleX(1);animation-timing-function:steps(6,end)}6.36%,100%{transform:scaleX(0)}}
+.o0{animation:o0 22s steps(1) infinite}@keyframes o0{0%{opacity:0}7.73%,100%{opacity:1}}
+.l1{animation:l1 22s steps(1) infinite}@keyframes l1{0%{opacity:0}12.73%,100%{opacity:1}}
+.k1{transform:scaleX(0);transform-origin:305.2px 0;animation:k1 22s linear infinite}
+@keyframes k1{0%,14.32%{transform:scaleX(1);animation-timing-function:steps(13,end)}18.75%,100%{transform:scaleX(0)}}
+.o1{animation:o1 22s steps(1) infinite}@keyframes o1{0%{opacity:0}20.11%,100%{opacity:1}}
+.l2{animation:l2 22s steps(1) infinite}@keyframes l2{0%{opacity:0}25.11%,100%{opacity:1}}
+.k2{transform:scaleX(0);transform-origin:322px 0;animation:k2 22s linear infinite}
+@keyframes k2{0%,26.70%{transform:scaleX(1);animation-timing-function:steps(23,end)}34.55%,100%{transform:scaleX(0)}}
+.o2{animation:o2 22s steps(1) infinite}@keyframes o2{0%{opacity:0}35.91%,100%{opacity:1}}
+.l3{animation:l3 22s steps(1) infinite}@keyframes l3{0%{opacity:0}40.91%,100%{opacity:1}}
+.k3{transform:scaleX(0);transform-origin:263.20000000000005px 0;animation:k3 22s linear infinite}
+@keyframes k3{0%,42.50%{transform:scaleX(1);animation-timing-function:steps(12,end)}46.59%,100%{transform:scaleX(0)}}
+.o3{animation:o3 22s steps(1) infinite}@keyframes o3{0%{opacity:0}47.95%,100%{opacity:1}}
+.end{animation:end 22s steps(1) infinite}@keyframes end{0%{opacity:0}52.95%,100%{opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="679" height="323" rx="12" fill="#121821" stroke="#263243"/>
+<line x1="0" y1="40" x2="680" y2="40" stroke="#263243"/>
+<circle cx="24" cy="20" r="5.5" fill="#ff6b6b"/><circle cx="43" cy="20" r="5.5" fill="#ffb454"/><circle cx="62" cy="20" r="5.5" fill="#22f0c8"/>
+<text x="340" y="25" text-anchor="middle" fill="#8491a3" style="font-size:12px">yashas — one terminal, every shell</text>
+<g class="l0"><text x="28" y="74" fill="#22f0c8" font-weight="700" textLength="117.6" lengthAdjust="spacingAndGlyphs">yashas@mac ~ %</text>
+<text x="154.0" y="74" fill="#e9edf2" textLength="50.4" lengthAdjust="spacingAndGlyphs">whoami</text>
+<rect class="k0" x="154.0" y="59" width="52.4" height="21" fill="#121821"/></g>
+<text class="o0" x="28" y="99" fill="#8491a3">Yashas Raj S. I turn ideas into apps you can install.</text>
+<g class="l1"><text x="28" y="130" fill="#4aa3ff" font-weight="700" textLength="159.6" lengthAdjust="spacingAndGlyphs">PS C:\Users\yashas&gt;</text>
+<text x="196.0" y="130" fill="#e9edf2" textLength="109.2" lengthAdjust="spacingAndGlyphs">Get-Interests</text>
+<rect class="k1" x="196.0" y="115" width="111.2" height="21" fill="#121821"/></g>
+<text class="o1" x="28" y="155" fill="#8491a3">cross-platform apps · device-to-device · local-first</text>
+<g class="l2"><text x="28" y="186" fill="#ffb454" font-weight="700" textLength="92.4" lengthAdjust="spacingAndGlyphs">android:/ $</text>
+<text x="128.8" y="186" fill="#e9edf2" textLength="193.2" lengthAdjust="spacingAndGlyphs">getprop ro.builder.mode</text>
+<rect class="k2" x="128.8" y="171" width="195.2" height="21" fill="#121821"/></g>
+<text class="o2" x="28" y="211" fill="#8491a3">shipping</text>
+<g class="l3"><text x="28" y="242" fill="#b79cff" font-weight="700" textLength="126.0" lengthAdjust="spacingAndGlyphs">yashasraj.com ❯</text>
+<text x="162.4" y="242" fill="#e9edf2" textLength="100.8" lengthAdjust="spacingAndGlyphs">status --all</text>
+<rect class="k3" x="162.4" y="227" width="102.8" height="21" fill="#121821"/></g>
+<text class="o3" x="28" y="267" fill="#8491a3">macOS ✓  Windows ✓  Android ✓  Web ✓   next idea: compiling…</text>
+<g class="end"><text x="28" y="298" fill="#22f0c8" font-weight="700" textLength="117.6" lengthAdjust="spacingAndGlyphs">yashas@mac ~ %</text>
+<rect class="cur" x="154" y="284" width="9" height="18" fill="#e9edf2"/></g>
+</svg>

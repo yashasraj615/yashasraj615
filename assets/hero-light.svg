@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 404" width="800" height="404" role="img" aria-labelledby="t d">
+<title id="t">Yashas Raj S — one idea, every platform</title>
+<desc id="d">Four connected devices — a Mac, a Windows monitor, an Android phone and a browser window — pass a build packet down the line while a small pixel dog named Fetch runs along underneath carrying a delivery.</desc>
+<!-- you opened the SVG. respect. fetch says hi: woof :443 -->
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.title{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;font-weight:700;letter-spacing:-.5px}
+.flow{stroke-dasharray:3 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-18}}
+.cursor{animation:cur 1s steps(1) infinite}@keyframes cur{50%{opacity:0}}
+.blink{animation:blink 1.6s steps(1) infinite}
+@keyframes blink{50%{opacity:.25}}
+.dog{transform:translateX(352px);animation:run 18s linear infinite}
+@keyframes run{from{transform:translateX(-120px)}to{transform:translateX(820px)}}
+.bob{animation:bob .32s steps(1) infinite}
+@keyframes bob{50%{transform:translateY(-2px)}}
+.fb{opacity:0;animation:fb .32s steps(1) infinite}
+.fa{animation:fa .32s steps(1) infinite}
+@keyframes fa{50%{opacity:0}}
+@keyframes fb{50%{opacity:1}}
+.p0{transform:translateX(41px);animation:p0 9s linear infinite}
+@keyframes p0{0%,8%{transform:translateX(0);opacity:0}9%{opacity:1}29%{opacity:1}30%,100%{transform:translateX(82px);opacity:0}}
+.p1{transform:translateX(52px);animation:p1 9s linear infinite}
+@keyframes p1{0%,34%{transform:translateX(0);opacity:0}35%{opacity:1}55%{opacity:1}56%,100%{transform:translateX(104px);opacity:0}}
+.p2{transform:translateX(49px);animation:p2 9s linear infinite}
+@keyframes p2{0%,60%{transform:translateX(0);opacity:0}61%{opacity:1}81%{opacity:1}82%,100%{transform:translateX(98px);opacity:0}}
+.g0{opacity:0;animation:g0 9s linear infinite}
+@keyframes g0{0%,2%{opacity:0}5%{opacity:.34}14%,100%{opacity:0}}
+.g1{opacity:0;animation:g1 9s linear infinite}
+@keyframes g1{0%,30%{opacity:0}33%{opacity:.34}42%,100%{opacity:0}}
+.g2{opacity:0;animation:g2 9s linear infinite}
+@keyframes g2{0%,56%{opacity:0}59%{opacity:.34}68%,100%{opacity:0}}
+.g3{opacity:0;animation:g3 9s linear infinite}
+@keyframes g3{0%,82%{opacity:0}85%{opacity:.34}94%,100%{opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><clipPath id="c"><rect width="800" height="404" rx="16"/></clipPath>
+<linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#078f78"/><stop offset="1" stop-color="#1f6fd0"/></linearGradient></defs>
+<g clip-path="url(#c)">
+<rect width="800" height="404" fill="#f7f5ef"/>
+<rect x=".5" y=".5" width="799" height="403" rx="16" fill="none" stroke="#d8d3c5"/>
+
+<circle class="blink" cx="44" cy="35" r="4" fill="#078f78"/>
+<text x="56" y="39" font-size="12" fill="#667085">mesh online · 4 nodes · 0 packets lost</text>
+<text x="760" y="39" font-size="12" fill="#667085" text-anchor="end">github.com/yashasraj615</text>
+
+<text class="title" x="40" y="96" font-size="42" fill="#14181e">Yashas Raj S</text>
+<rect x="42" y="110" width="64" height="4" rx="2" fill="url(#grad)"/>
+<text x="746" y="96" font-size="13" fill="#14181e" text-anchor="end"><tspan fill="#078f78" font-weight="700">$</tspan> ship idea.zip --everywhere</text>
+<rect class="cursor" x="752" y="84" width="8" height="15" fill="#14181e"/>
+<text x="760" y="118" font-size="12" fill="#667085" text-anchor="end">building for 4 targets…</text>
+<text x="40" y="142" font-size="15" fill="#667085">one idea <tspan fill="#078f78">→</tspan> every platform</text>
+
+<line class="flow" x1="154" y1="226" x2="246" y2="226" stroke="#667085" stroke-width="1.5"/>
+<g transform="translate(152 221)"><rect class="p0" width="14" height="10" rx="2.5" fill="#078f78"/></g>
+<line class="flow" x1="354" y1="226" x2="468" y2="226" stroke="#667085" stroke-width="1.5"/>
+<g transform="translate(352 221)"><rect class="p1" width="14" height="10" rx="2.5" fill="#078f78"/></g>
+<line class="flow" x1="512" y1="226" x2="620" y2="226" stroke="#667085" stroke-width="1.5"/>
+<g transform="translate(510 221)"><rect class="p2" width="14" height="10" rx="2.5" fill="#078f78"/></g>
+
+<!-- macOS laptop -->
+<rect x="68" y="196" width="84" height="56" rx="6" fill="#ffffff" stroke="#14181e" stroke-width="2"/>
+<rect class="g0" x="69" y="197" width="82" height="54" rx="5" fill="#078f78"/>
+<rect x="52" y="254" width="116" height="7" rx="3.5" fill="#14181e"/>
+<text x="110" y="229" font-size="13" font-weight="700" fill="#078f78" text-anchor="middle">.dmg</text>
+<text x="110" y="292" font-size="12" fill="#667085" text-anchor="middle">macOS</text>
+
+<!-- Windows monitor -->
+<rect x="248" y="184" width="104" height="66" rx="4" fill="#ffffff" stroke="#14181e" stroke-width="2"/>
+<rect class="g1" x="249" y="185" width="102" height="64" rx="3" fill="#078f78"/>
+<rect x="294" y="251" width="12" height="9" fill="#14181e"/>
+<rect x="274" y="259" width="52" height="4" rx="2" fill="#14181e"/>
+<text x="300" y="222" font-size="13" font-weight="700" fill="#078f78" text-anchor="middle">.exe</text>
+<text x="300" y="292" font-size="12" fill="#667085" text-anchor="middle">Windows</text>
+
+<!-- Android phone -->
+<rect x="470" y="186" width="40" height="80" rx="8" fill="#ffffff" stroke="#14181e" stroke-width="2"/>
+<rect class="g2" x="471" y="187" width="38" height="78" rx="7" fill="#078f78"/>
+<circle cx="490" cy="195" r="2" fill="#14181e"/>
+<text x="490" y="231" font-size="13" font-weight="700" fill="#078f78" text-anchor="middle">.apk</text>
+<text x="490" y="292" font-size="12" fill="#667085" text-anchor="middle">Android</text>
+
+<!-- Browser window -->
+<rect x="622" y="184" width="116" height="82" rx="6" fill="#ffffff" stroke="#14181e" stroke-width="2"/>
+<rect class="g3" x="623" y="201" width="114" height="64" rx="4" fill="#078f78"/>
+<line x1="622" y1="200" x2="738" y2="200" stroke="#14181e" stroke-width="2"/>
+<circle cx="632" cy="192" r="2.2" fill="#d64545"/><circle cx="640" cy="192" r="2.2" fill="#b86200"/><circle cx="648" cy="192" r="2.2" fill="#078f78"/>
+<rect x="660" y="188.5" width="68" height="7" rx="3.5" fill="#d8d3c5"/>
+<text x="680" y="238" font-size="13" font-weight="700" fill="#078f78" text-anchor="middle">https://</text>
+<text x="680" y="292" font-size="12" fill="#667085" text-anchor="middle">Web</text>
+
+<!-- Fetch's lane -->
+<line x1="40" y1="369" x2="760" y2="369" stroke="#d8d3c5" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+<g class="dog"><g transform="translate(0 316)"><g class="bob">
+<rect x="72" y="0" width="8" height="4" fill="#1d232c"/><rect x="4" y="4" width="8" height="4" fill="#aab4c2"/><rect x="68" y="4" width="16" height="4" fill="#1d232c"/><rect x="0" y="8" width="4" height="4" fill="#aab4c2"/><rect x="4" y="8" width="8" height="4" fill="#1d232c"/><rect x="68" y="8" width="20" height="4" fill="#1d232c"/><rect x="0" y="12" width="12" height="4" fill="#1d232c"/><rect x="64" y="12" width="8" height="4" fill="#1d232c"/><rect x="72" y="12" width="4" height="4" fill="#f7f5ef"/><rect x="76" y="12" width="12" height="4" fill="#1d232c"/><rect x="88" y="12" width="4" height="4" fill="#aab4c2"/><rect x="92" y="12" width="4" height="4" fill="#1d232c"/><rect x="4" y="16" width="8" height="4" fill="#1d232c"/><rect x="64" y="16" width="24" height="4" fill="#1d232c"/><rect x="88" y="16" width="8" height="4" fill="#aab4c2"/><rect x="4" y="20" width="12" height="4" fill="#1d232c"/><rect x="24" y="20" width="48" height="4" fill="#1d232c"/><rect x="72" y="20" width="16" height="4" fill="#aab4c2"/><rect x="8" y="24" width="64" height="4" fill="#1d232c"/><rect x="72" y="24" width="8" height="4" fill="#aab4c2"/><rect x="8" y="28" width="16" height="4" fill="#1d232c"/><rect x="24" y="28" width="8" height="4" fill="#aab4c2"/><rect x="32" y="28" width="36" height="4" fill="#1d232c"/><rect x="68" y="28" width="12" height="4" fill="#aab4c2"/><rect x="8" y="32" width="12" height="4" fill="#1d232c"/><rect x="20" y="32" width="16" height="4" fill="#aab4c2"/><rect x="36" y="32" width="32" height="4" fill="#1d232c"/><rect x="68" y="32" width="8" height="4" fill="#aab4c2"/><rect x="8" y="36" width="60" height="4" fill="#1d232c"/>
+<g class="fa"><rect x="8" y="40" width="8" height="4" fill="#1d232c"/><rect x="24" y="40" width="8" height="4" fill="#1d232c"/><rect x="52" y="40" width="8" height="4" fill="#1d232c"/><rect x="68" y="40" width="8" height="4" fill="#1d232c"/><rect x="4" y="44" width="8" height="4" fill="#1d232c"/><rect x="28" y="44" width="8" height="4" fill="#1d232c"/><rect x="48" y="44" width="8" height="4" fill="#1d232c"/><rect x="72" y="44" width="8" height="4" fill="#1d232c"/><rect x="4" y="48" width="4" height="4" fill="#aab4c2"/><rect x="32" y="48" width="4" height="4" fill="#aab4c2"/><rect x="48" y="48" width="4" height="4" fill="#aab4c2"/><rect x="76" y="48" width="4" height="4" fill="#aab4c2"/></g>
+<g class="fb"><rect x="12" y="40" width="8" height="4" fill="#1d232c"/><rect x="24" y="40" width="8" height="4" fill="#1d232c"/><rect x="52" y="40" width="8" height="4" fill="#1d232c"/><rect x="64" y="40" width="8" height="4" fill="#1d232c"/><rect x="16" y="44" width="12" height="4" fill="#1d232c"/><rect x="56" y="44" width="12" height="4" fill="#1d232c"/><rect x="16" y="48" width="8" height="4" fill="#aab4c2"/><rect x="56" y="48" width="8" height="4" fill="#aab4c2"/></g>
+<rect x="96" y="12" width="17" height="13" rx="2.5" fill="#b86200"/><path d="M98 15l6.5 4.5l6.5 -4.5" fill="none" stroke="#f7f5ef" stroke-width="1.5"/>
+</g></g></g>
+<text x="760" y="392" font-size="11" fill="#667085" text-anchor="end">fetch · packet courier · very good at his job</text>
+</g>
+</svg>
